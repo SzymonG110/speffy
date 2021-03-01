@@ -1,0 +1,26 @@
+{
+  "name": "hasfy",
+  "version": "2.0.0",
+  "description": "Hasfy 2.0",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.1.2",
+    "canvas": "^2.6.1",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "hypixel-node": "^1.2.1",
+    "libxmljs": "^0.19.7",
+    "node-gyp": "^7.1.2",
+    "node-pre-gyp": "^0.17.0",
+    "nodemon": "^2.0.7",
+    "path": "^0.12.7",
+    "pm2": "^4.5.4",
+    "pug": "^3.0.0"
+  }
+}
