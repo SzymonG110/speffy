@@ -1,0 +1,23 @@
+{
+    "token": "TOKEN",
+    "owners": [
+        "548255235823501322"
+    ],
+    "roles": {
+        "verificator": "810128498915672075"
+    },
+    "channels": {
+        "verification": "810130301158031372",
+        "logs": "810203048097480754",
+        "botJoinLeave": "811163911776108574"
+    },
+    "links": {
+        "support": "https://discord.gg/zR3Tj2vqTV",
+        "invite": "https://discord.com/api/oauth2/authorize?client_id=808009436513566811&permissions=8&scope=bot",
+        "dashboard": "https://speffy.tk/"
+    },
+    "prefix": "?",
+    "embedSuccessColor": "#3333cc",
+    "embedErrorColor": "#ff3300",
+    "number": 1
+}
