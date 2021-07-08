@@ -1,13 +1,13 @@
 {
-  "name": "hasfy",
+  "name": "Sprffy",
   "version": "2.0.0",
-  "description": "Hasfy 2.0",
+  "description": "Speffy 1.0",
   "main": "Index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "SzymonG110#8841",
+  "license": "GNU General Public License v3.0",
   "dependencies": {
     "better-sqlite3": "^7.1.2",
     "canvas": "^2.6.1",
